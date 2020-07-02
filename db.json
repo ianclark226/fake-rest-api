@@ -1,0 +1,68 @@
+{
+  "customers": [
+    {
+      "First_name": "Ian",
+      "Last_name": "Clark",
+      "business_name": "",
+      "bill_address": "2519 CEDAR TREE DR, APT 2D",
+      "phone": "4845743255",
+      "number_signs": "",
+      "signs_rented": "",
+      "contract_term": "",
+      "monthly_rent": "",
+      "delinquent_account": "",
+      "past_due_payments": "",
+      "id": 2
+    },
+    {
+      "First_name": "Tyler",
+      "Last_name": "Jenkins",
+      "business_name": "brady",
+      "bill_address": "philly",
+      "phone": "N/a",
+      "number_signs": "8",
+      "signs_rented": "8",
+      "contract_term": "12 months",
+      "monthly_rent": "500",
+      "delinquent_account": "1",
+      "past_due_payments": "1",
+      "id": 3
+    }
+  ],
+  "billboard": [
+    {
+      "lat": "1233",
+      "lon": "4321",
+      "location": "west deptford",
+      "size": "medium",
+      "type": "traditional",
+      "sides": "4",
+      "sign_no": "4567987",
+      "id": "1"
+    },
+    {
+      "lat": "654",
+      "latError": "",
+      "lon": "8765",
+      "location": "",
+      "size": "",
+      "type": "",
+      "avalible": "",
+      "sides": "",
+      "sign_no": "",
+      "id": "wxfjniG"
+    },
+    {
+      "lat": "45678",
+      "latError": "",
+      "lon": "098765",
+      "location": "",
+      "size": "",
+      "type": "",
+      "avalible": "",
+      "sides": "",
+      "sign_no": "",
+      "id": "2WiaDlP"
+    }
+  ]
+}
